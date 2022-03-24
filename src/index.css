@@ -4,5 +4,24 @@
 
 body {
   margin: 0;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
 }
+
+
+/* ----------------------------- START NAVBAR ----------------------------- */
+.navbar {
+  background-color: #F55A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav_title {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin-left: 7px;
+}
+
+/* ----------------------------- END NAVBAR ----------------------------- */
