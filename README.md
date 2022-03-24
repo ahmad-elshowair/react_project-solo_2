@@ -4,6 +4,8 @@ a small project about travel journal which is contain a few place that is visite
 
 provide a pic of each place, location and a small paragraph 
 
+ ![solo project 2](src/images/solo.2.png "picture solo project 2")
+
 ### start up 
 _firstly installation_
 there two ways to install the dependencies
