@@ -25,3 +25,78 @@ body {
 }
 
 /* ----------------------------- END NAVBAR ----------------------------- */
+
+/* ----------------------------- START TRIP ----------------------------- */
+.trips {
+  padding: 100px 40px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.trip {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
+.trip__image {
+  width: 325px;
+  height: 368px;
+}
+
+.trip__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info__location {
+  display: flex;
+  align-items: center;
+}
+
+.location__icon {
+  margin-right: 5px;
+}
+
+.location__country {
+  text-transform: uppercase;
+  font-size: 15px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2B283A;
+  margin-right: 30px;
+}
+
+.location__map {
+  font-size: 16px;
+  line-height: 12px;
+  color: #918E9B;
+}
+
+.info_title {
+  font-size: 35px;
+  line-height: 30px;
+  color: #2B283A;
+  margin-top: 10px;
+}
+
+.info__date {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 12px;
+  margin-bottom: 0;
+  color: #2B283A;
+}
+
+.info_description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #2B283A;
+  max-width: 500px;
+}
+
+
+/* ----------------------------- END TRIP ----------------------------- */
